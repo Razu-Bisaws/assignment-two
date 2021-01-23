@@ -1,4 +1,4 @@
-/* 
+
 body {
     font-family: 'Roboto', sans-serif;
     
@@ -26,4 +26,10 @@ body {
 }
 .carousel-item{
     padding: 20px 40px;
-} */
+}
+.color-c1{
+    color: darkorange;
+}
+.col-md-6 p-10{
+    margin: 20px;
+}
